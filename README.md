@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @simeiafranca
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-simeiafranca/simeiafranca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 ola´meu nome é @simeiafranca
+- 👀 meu email de contato é @simeia.franca@escola.pr.gov.br
+- 🌱 Eu gosto muito de rodeio e dormir
+- 💞️ eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
+- 📫 tenho 16 anos 
+- estou no 1° ano do novo ensino medio 
+- estudo no colegio estadual victor bussmann, em campo do tenente PR
