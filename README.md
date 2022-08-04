@@ -1,7 +1,7 @@
-- 👋 ola´meu nome é @simeiafranca
-- 👀 meu email de contato é @simeia.franca@escola.pr.gov.br
+- 🔥 Olá meu nome é @simeiafranca
+- 👀 Meu email de contato é @simeia.franca@escola.pr.gov.br
 - 🌱 Eu gosto muito de rodeio e dormir
-- 💞️ eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
-- 📫 tenho 16 anos 
-- estou no 1° ano do novo ensino medio 
-- estudo no colegio estadual victor bussmann, em campo do tenente PR
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
+- 📫 Tenho 16 anos 
+- 📌 Estou no 1° ano do novo ensino medio 
+- 📚 Estudo no colegio estadual victor bussmann, em campo do tenente PR
